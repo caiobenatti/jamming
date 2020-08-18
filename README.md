@@ -16,7 +16,7 @@ In the project directory, you can run:
 
 or
 
-# proud-alley.surge.sh
+# foregoing-feast.surge.sh
 
 to go for the live version
 
